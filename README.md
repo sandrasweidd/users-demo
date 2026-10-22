@@ -54,3 +54,7 @@ Database console: `http://localhost:8080/h2-console`
 | Inheritance | `User extends BaseEntity`, `UserRepository extends JpaRepository`, el exceptions |
 | Interface | `service/UserService.java` |
 | Polymorphism | `UserController` byesta3mel `UserService` w Spring byeb3at `UserServiceImpl` |
+
+
+## Author
+Sandra
